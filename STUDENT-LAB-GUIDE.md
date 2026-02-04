@@ -6,7 +6,6 @@ In this hands-on lab, you will learn how to use AWS Lake Formation to build a da
 
 **Duration:** 60-90 minutes  
 **Difficulty:** Beginner to Intermediate  
-**Cost:** $0.03 - $0.10 per student
 
 ---
 
