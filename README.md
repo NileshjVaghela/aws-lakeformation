@@ -57,12 +57,7 @@ Students will learn:
 - Grant SELECT on tables
 - Test permissions with Athena
 
-### Exercise 4: Column-Level Security (20 min)
-- Create filtered table with column exclusions
-- Grant permissions with column filters
-- Query and verify PII columns hidden
-
-### Exercise 5: Row-Level Filtering (25 min)
+### Exercise 4: Row-Level Filtering (25 min)
 - Create data filter for specific rows
 - Apply filter to table permissions
 - Query and verify row filtering works
