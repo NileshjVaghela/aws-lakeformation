@@ -1,0 +1,501 @@
+product_id,product_name,category,price,stock_quantity
+1,Novel Mini,Pet Supplies,880.57,406
+2,Basketball Plus,Automotive,496.9,410
+3,T-Shirt Basic,Books,53.05,410
+4,Shampoo Deluxe,Books,428.87,114
+5,Lamp Mini,Beauty,179.43,84
+6,Laptop Plus,Books,140.56,64
+7,Lotion Mini,Pet Supplies,836.88,158
+8,Cookbook Deluxe,Books,113.01,462
+9,Action Figure Plus,Clothing,685.0,96
+10,Motor Oil Standard,Books,218.35,143
+11,Dog Food Ultra,Pet Supplies,886.18,100
+12,Novel Max,Food,112.6,146
+13,Dog Food Premium,Electronics,752.88,113
+14,Coffee Basic,Clothing,252.25,36
+15,Coffee Elite,Automotive,692.2,354
+16,Laptop Elite,Electronics,970.79,486
+17,Cat Food Mini,Clothing,846.05,38
+18,Shampoo Premium,Automotive,657.6,418
+19,Action Figure Premium,Clothing,949.97,224
+20,Lotion Max,Clothing,996.95,451
+21,Novel Basic,Pet Supplies,457.58,287
+22,Coffee Premium,Toys,715.58,101
+23,Dog Food Premium,Sports,325.34,118
+24,Laptop Standard,Pet Supplies,195.06,169
+25,Coffee Pro,Clothing,227.86,369
+26,Cookbook Premium,Sports,217.56,60
+27,Dog Food Elite,Automotive,132.0,256
+28,Action Figure Basic,Electronics,565.86,105
+29,Action Figure Premium,Sports,614.56,347
+30,Board Game Max,Pet Supplies,242.46,142
+31,Novel Premium,Home & Garden,330.98,490
+32,Laptop Basic,Electronics,707.16,183
+33,Basketball Deluxe,Electronics,100.24,56
+34,Yoga Mat Plus,Beauty,169.43,363
+35,Novel Elite,Automotive,433.62,104
+36,Basketball Premium,Toys,369.6,89
+37,Smartphone Mini,Home & Garden,220.77,234
+38,Lotion Plus,Food,145.12,326
+39,Cookbook Deluxe,Toys,552.7,328
+40,Coffee Elite,Sports,145.21,156
+41,Novel Max,Books,399.18,91
+42,Brake Pads Mini,Books,402.95,106
+43,Tea Premium,Food,78.64,180
+44,Jeans Pro,Beauty,682.18,168
+45,Coffee Mini,Electronics,176.09,418
+46,Basketball Elite,Clothing,370.37,459
+47,Motor Oil Ultra,Automotive,70.92,93
+48,Smartphone Elite,Beauty,267.0,369
+49,T-Shirt Deluxe,Books,621.45,385
+50,Lotion Basic,Home & Garden,983.2,394
+51,Brake Pads Ultra,Food,157.18,207
+52,Laptop Max,Books,645.57,163
+53,Shampoo Mini,Books,984.82,9
+54,Novel Ultra,Clothing,840.35,100
+55,Motor Oil Max,Beauty,263.96,267
+56,Motor Oil Ultra,Beauty,655.11,289
+57,T-Shirt Ultra,Sports,639.09,409
+58,Basketball Standard,Automotive,652.25,293
+59,Shampoo Pro,Electronics,590.41,340
+60,Novel Standard,Toys,214.45,33
+61,Jeans Premium,Electronics,513.3,367
+62,Chair Plus,Beauty,544.98,301
+63,Lamp Max,Electronics,373.04,319
+64,Jeans Mini,Automotive,431.89,341
+65,Brake Pads Deluxe,Automotive,920.85,21
+66,Board Game Elite,Automotive,312.1,54
+67,Coffee Max,Toys,659.73,339
+68,Jeans Premium,Toys,216.29,161
+69,Coffee Standard,Clothing,498.81,241
+70,Board Game Premium,Books,968.83,432
+71,Novel Premium,Sports,591.84,460
+72,Cat Food Pro,Sports,833.9,185
+73,Basketball Standard,Pet Supplies,765.76,442
+74,Brake Pads Plus,Books,25.1,430
+75,Action Figure Max,Sports,159.51,207
+76,Shampoo Mini,Home & Garden,689.28,379
+77,Yoga Mat Pro,Beauty,257.66,185
+78,Brake Pads Elite,Electronics,27.93,50
+79,Chair Pro,Electronics,21.44,251
+80,Basketball Pro,Automotive,396.78,57
+81,Laptop Deluxe,Electronics,492.74,36
+82,Dog Food Basic,Home & Garden,265.08,30
+83,Brake Pads Plus,Home & Garden,787.57,293
+84,Basketball Mini,Home & Garden,51.72,204
+85,Cat Food Basic,Food,543.71,83
+86,Action Figure Premium,Food,732.51,479
+87,Basketball Deluxe,Electronics,432.92,414
+88,Cat Food Pro,Electronics,781.1,482
+89,Dog Food Standard,Toys,883.7,113
+90,Action Figure Standard,Toys,739.11,445
+91,Action Figure Basic,Books,826.03,274
+92,Tea Premium,Clothing,591.88,465
+93,Brake Pads Standard,Pet Supplies,634.21,34
+94,Laptop Pro,Food,385.36,436
+95,Shampoo Basic,Books,18.67,91
+96,Smartphone Plus,Automotive,666.35,69
+97,Board Game Mini,Sports,133.34,248
+98,Smartphone Mini,Books,961.54,325
+99,Novel Basic,Beauty,730.46,80
+100,Coffee Pro,Home & Garden,653.42,465
+101,Basketball Ultra,Pet Supplies,836.77,188
+102,Motor Oil Standard,Toys,436.62,155
+103,Novel Standard,Food,507.87,266
+104,Chair Standard,Beauty,333.38,204
+105,Cat Food Elite,Automotive,703.64,135
+106,Board Game Deluxe,Electronics,437.15,119
+107,Yoga Mat Mini,Toys,772.51,379
+108,Cat Food Deluxe,Books,274.07,302
+109,Action Figure Mini,Toys,216.36,195
+110,Dog Food Basic,Toys,930.03,335
+111,Action Figure Ultra,Pet Supplies,774.59,352
+112,T-Shirt Standard,Beauty,10.88,83
+113,Novel Max,Beauty,371.94,160
+114,T-Shirt Standard,Automotive,793.31,74
+115,Motor Oil Mini,Electronics,150.72,396
+116,Laptop Mini,Toys,209.2,468
+117,Shampoo Plus,Home & Garden,397.41,211
+118,Cat Food Premium,Books,603.59,115
+119,Action Figure Mini,Electronics,418.55,263
+120,Shampoo Premium,Sports,417.7,200
+121,Yoga Mat Plus,Automotive,888.47,447
+122,Yoga Mat Pro,Sports,90.8,272
+123,Shampoo Mini,Books,106.29,460
+124,Lamp Ultra,Books,225.86,411
+125,Yoga Mat Mini,Clothing,788.69,378
+126,Novel Max,Electronics,69.32,4
+127,Lamp Pro,Toys,814.1,437
+128,Laptop Deluxe,Books,248.71,193
+129,Shampoo Max,Toys,495.1,478
+130,Jeans Premium,Automotive,889.41,431
+131,Brake Pads Basic,Pet Supplies,179.07,429
+132,Board Game Premium,Automotive,180.65,360
+133,Laptop Ultra,Home & Garden,148.86,228
+134,Laptop Pro,Home & Garden,899.94,363
+135,Cat Food Max,Automotive,574.26,167
+136,Lamp Pro,Pet Supplies,71.6,436
+137,Motor Oil Deluxe,Sports,238.76,236
+138,Action Figure Elite,Food,955.61,152
+139,Basketball Standard,Toys,865.84,182
+140,Shampoo Standard,Toys,540.42,396
+141,Basketball Plus,Home & Garden,595.79,354
+142,Cookbook Elite,Toys,694.67,211
+143,Cat Food Plus,Automotive,586.06,277
+144,T-Shirt Max,Pet Supplies,943.94,159
+145,Board Game Elite,Food,82.2,334
+146,Brake Pads Max,Beauty,179.77,29
+147,T-Shirt Mini,Electronics,954.37,59
+148,Board Game Premium,Home & Garden,905.93,457
+149,Dog Food Deluxe,Sports,212.11,334
+150,Board Game Deluxe,Toys,120.68,160
+151,Chair Pro,Beauty,658.98,197
+152,Jeans Mini,Beauty,481.95,458
+153,Lotion Elite,Sports,727.57,195
+154,Novel Basic,Food,949.81,362
+155,Brake Pads Elite,Books,862.22,311
+156,Cookbook Ultra,Sports,353.55,10
+157,Lotion Pro,Beauty,731.68,276
+158,Smartphone Deluxe,Clothing,326.74,220
+159,Board Game Max,Sports,882.57,374
+160,Jeans Max,Toys,927.23,376
+161,Chair Plus,Food,378.33,229
+162,Brake Pads Standard,Toys,111.96,15
+163,Dog Food Max,Home & Garden,824.24,211
+164,Smartphone Pro,Books,776.51,58
+165,Brake Pads Plus,Automotive,988.66,93
+166,Lotion Basic,Home & Garden,28.59,65
+167,Laptop Max,Home & Garden,704.33,261
+168,Laptop Plus,Sports,676.82,195
+169,Coffee Plus,Pet Supplies,708.64,227
+170,Brake Pads Pro,Electronics,43.97,490
+171,Cat Food Plus,Pet Supplies,923.44,468
+172,Action Figure Deluxe,Automotive,267.54,303
+173,Board Game Ultra,Home & Garden,39.91,214
+174,Tea Max,Home & Garden,297.75,37
+175,Shampoo Pro,Sports,489.59,82
+176,Lamp Plus,Beauty,925.07,13
+177,Brake Pads Standard,Sports,900.33,180
+178,Lotion Ultra,Food,764.74,498
+179,Chair Mini,Sports,903.69,139
+180,Smartphone Mini,Pet Supplies,175.61,458
+181,Coffee Max,Toys,526.32,113
+182,Lotion Basic,Food,364.0,362
+183,Laptop Premium,Beauty,150.21,229
+184,Shampoo Ultra,Pet Supplies,365.59,364
+185,Cookbook Mini,Electronics,900.43,395
+186,Novel Max,Beauty,259.7,461
+187,Action Figure Deluxe,Clothing,392.09,138
+188,Action Figure Standard,Home & Garden,634.64,246
+189,Smartphone Plus,Beauty,661.48,208
+190,Yoga Mat Max,Home & Garden,508.8,178
+191,Motor Oil Plus,Pet Supplies,611.19,153
+192,Lotion Basic,Books,20.47,424
+193,Motor Oil Pro,Clothing,175.87,10
+194,Board Game Pro,Books,861.63,64
+195,Smartphone Mini,Clothing,473.79,66
+196,Tea Deluxe,Books,77.31,238
+197,Novel Premium,Electronics,468.29,114
+198,Jeans Max,Home & Garden,706.09,469
+199,Action Figure Ultra,Home & Garden,812.56,37
+200,Lotion Pro,Electronics,954.27,82
+201,Basketball Plus,Toys,194.9,30
+202,Smartphone Ultra,Pet Supplies,794.53,124
+203,Lotion Max,Beauty,979.5,208
+204,Laptop Deluxe,Clothing,781.79,330
+205,Yoga Mat Ultra,Books,562.88,428
+206,Shampoo Basic,Clothing,688.05,143
+207,Board Game Plus,Pet Supplies,383.12,297
+208,Shampoo Ultra,Toys,957.19,439
+209,Cat Food Max,Electronics,393.64,372
+210,Shampoo Premium,Electronics,885.17,48
+211,Cat Food Pro,Clothing,832.14,459
+212,Brake Pads Deluxe,Beauty,780.18,40
+213,Novel Elite,Clothing,902.64,212
+214,Tea Standard,Books,177.81,247
+215,Chair Max,Toys,733.29,222
+216,T-Shirt Pro,Pet Supplies,599.83,449
+217,Lamp Mini,Food,927.61,322
+218,Board Game Plus,Books,262.26,52
+219,Laptop Elite,Electronics,845.78,374
+220,Shampoo Deluxe,Electronics,211.9,45
+221,Board Game Basic,Beauty,48.62,184
+222,Smartphone Premium,Home & Garden,518.86,363
+223,Jeans Standard,Clothing,991.18,472
+224,Motor Oil Elite,Electronics,885.0,266
+225,T-Shirt Max,Beauty,794.94,10
+226,T-Shirt Max,Books,123.03,274
+227,Coffee Pro,Automotive,384.9,312
+228,Dog Food Mini,Sports,421.21,102
+229,Board Game Pro,Food,760.12,237
+230,Lotion Premium,Automotive,341.1,263
+231,Dog Food Standard,Food,88.31,498
+232,Board Game Deluxe,Food,503.71,268
+233,Lotion Mini,Books,826.63,315
+234,Tea Premium,Home & Garden,526.72,462
+235,Novel Plus,Pet Supplies,258.2,283
+236,Cat Food Ultra,Beauty,149.36,30
+237,Motor Oil Max,Books,262.85,56
+238,Shampoo Ultra,Home & Garden,559.83,55
+239,Yoga Mat Pro,Pet Supplies,936.46,231
+240,Yoga Mat Max,Home & Garden,450.33,25
+241,Cookbook Ultra,Sports,902.82,32
+242,Lotion Basic,Pet Supplies,464.25,145
+243,Basketball Premium,Food,577.13,294
+244,Action Figure Mini,Electronics,957.84,257
+245,Smartphone Standard,Pet Supplies,927.41,390
+246,Smartphone Elite,Books,469.07,499
+247,Board Game Max,Toys,650.6,360
+248,Jeans Plus,Sports,114.46,442
+249,Smartphone Deluxe,Clothing,243.25,138
+250,Laptop Pro,Pet Supplies,631.53,8
+251,Coffee Pro,Pet Supplies,979.76,233
+252,Coffee Ultra,Clothing,215.7,425
+253,Smartphone Premium,Beauty,377.13,274
+254,Motor Oil Basic,Toys,281.39,323
+255,Cat Food Ultra,Food,339.53,222
+256,Motor Oil Premium,Pet Supplies,707.92,464
+257,Cat Food Premium,Electronics,854.21,474
+258,Basketball Standard,Toys,675.28,97
+259,T-Shirt Max,Sports,143.12,107
+260,Smartphone Deluxe,Beauty,179.43,9
+261,Lamp Elite,Electronics,440.65,3
+262,Basketball Premium,Automotive,32.83,28
+263,T-Shirt Deluxe,Automotive,570.4,451
+264,T-Shirt Max,Pet Supplies,161.25,327
+265,Tea Plus,Automotive,731.0,63
+266,Smartphone Elite,Sports,384.78,481
+267,Jeans Standard,Beauty,718.53,409
+268,Action Figure Max,Automotive,642.16,82
+269,Motor Oil Standard,Books,859.2,299
+270,Jeans Mini,Food,554.34,13
+271,Chair Standard,Home & Garden,153.55,37
+272,Lotion Deluxe,Sports,753.8,7
+273,Yoga Mat Pro,Sports,637.01,142
+274,Novel Deluxe,Clothing,234.39,396
+275,Tea Pro,Pet Supplies,224.88,169
+276,Basketball Plus,Beauty,819.21,5
+277,Smartphone Premium,Automotive,475.2,169
+278,Lamp Mini,Pet Supplies,646.48,0
+279,Cat Food Pro,Automotive,949.24,238
+280,Tea Mini,Automotive,82.1,463
+281,Dog Food Standard,Clothing,847.3,269
+282,Yoga Mat Elite,Clothing,929.29,432
+283,Coffee Pro,Automotive,667.41,139
+284,Jeans Pro,Sports,907.66,1
+285,Laptop Pro,Food,61.28,447
+286,Basketball Plus,Home & Garden,443.31,412
+287,Lamp Plus,Pet Supplies,347.78,199
+288,Cookbook Ultra,Sports,34.38,269
+289,Novel Standard,Toys,801.22,132
+290,Tea Pro,Clothing,12.14,142
+291,Cat Food Plus,Sports,721.39,415
+292,Action Figure Standard,Electronics,425.02,315
+293,Action Figure Deluxe,Clothing,911.19,353
+294,Laptop Ultra,Home & Garden,716.7,497
+295,Yoga Mat Deluxe,Electronics,613.91,491
+296,Board Game Elite,Pet Supplies,839.06,331
+297,Board Game Standard,Food,409.45,259
+298,Shampoo Standard,Electronics,568.11,498
+299,Tea Deluxe,Books,129.09,474
+300,Board Game Mini,Automotive,316.76,345
+301,Motor Oil Elite,Beauty,829.76,474
+302,Coffee Elite,Clothing,968.93,121
+303,Cookbook Elite,Clothing,546.2,499
+304,T-Shirt Elite,Beauty,220.36,359
+305,Chair Standard,Clothing,537.67,232
+306,Jeans Standard,Toys,540.62,485
+307,Basketball Deluxe,Electronics,742.94,224
+308,Novel Elite,Electronics,784.16,268
+309,T-Shirt Deluxe,Automotive,890.57,165
+310,Smartphone Elite,Beauty,856.3,469
+311,Shampoo Mini,Food,81.19,304
+312,Cat Food Max,Food,621.46,411
+313,Smartphone Basic,Automotive,863.35,122
+314,Board Game Plus,Beauty,641.99,53
+315,Cookbook Deluxe,Books,640.56,480
+316,Action Figure Pro,Home & Garden,670.16,248
+317,Brake Pads Pro,Books,657.44,163
+318,Jeans Premium,Beauty,267.01,125
+319,Novel Premium,Toys,280.02,93
+320,Dog Food Ultra,Clothing,774.11,66
+321,Tea Mini,Books,876.18,21
+322,Basketball Elite,Clothing,401.84,91
+323,Laptop Plus,Toys,376.05,327
+324,Laptop Deluxe,Sports,616.53,165
+325,Jeans Basic,Beauty,63.9,217
+326,Dog Food Basic,Sports,631.37,109
+327,Laptop Standard,Clothing,270.28,422
+328,Lotion Deluxe,Sports,139.48,171
+329,Coffee Plus,Home & Garden,474.58,412
+330,Cat Food Mini,Food,933.37,71
+331,Brake Pads Plus,Pet Supplies,637.62,69
+332,Coffee Deluxe,Clothing,111.06,49
+333,Novel Standard,Pet Supplies,35.17,74
+334,Cookbook Plus,Sports,610.15,499
+335,Cat Food Deluxe,Beauty,146.55,422
+336,Lamp Mini,Clothing,505.06,290
+337,Board Game Max,Beauty,765.45,86
+338,Brake Pads Mini,Clothing,356.63,500
+339,Motor Oil Elite,Electronics,383.64,88
+340,Cat Food Plus,Pet Supplies,342.64,325
+341,Lamp Pro,Food,249.83,408
+342,Lamp Mini,Home & Garden,655.25,25
+343,Laptop Basic,Beauty,605.05,192
+344,Chair Ultra,Home & Garden,478.36,449
+345,Shampoo Plus,Toys,522.99,407
+346,Lamp Deluxe,Clothing,54.71,340
+347,Coffee Mini,Beauty,949.45,177
+348,Novel Standard,Sports,953.37,154
+349,Lotion Deluxe,Clothing,350.71,432
+350,Novel Deluxe,Home & Garden,180.48,218
+351,T-Shirt Mini,Clothing,194.07,460
+352,Motor Oil Max,Home & Garden,355.1,151
+353,T-Shirt Max,Sports,599.08,465
+354,Dog Food Ultra,Toys,714.53,202
+355,Coffee Standard,Food,736.98,347
+356,Coffee Elite,Food,491.08,386
+357,Tea Ultra,Food,675.89,84
+358,Basketball Pro,Sports,35.79,392
+359,Yoga Mat Standard,Books,618.06,422
+360,Cat Food Pro,Pet Supplies,59.33,182
+361,Laptop Pro,Sports,661.48,181
+362,Tea Max,Electronics,346.36,488
+363,Coffee Max,Beauty,220.2,293
+364,Action Figure Standard,Pet Supplies,773.79,48
+365,Dog Food Deluxe,Food,595.51,393
+366,Lotion Ultra,Home & Garden,250.5,76
+367,Laptop Pro,Food,451.69,302
+368,Yoga Mat Plus,Pet Supplies,648.54,124
+369,Lotion Ultra,Electronics,680.94,148
+370,Action Figure Ultra,Food,394.56,180
+371,Coffee Pro,Pet Supplies,290.77,255
+372,Jeans Pro,Home & Garden,732.83,409
+373,Shampoo Standard,Toys,323.45,140
+374,Dog Food Deluxe,Toys,996.13,304
+375,Jeans Mini,Food,728.58,46
+376,Shampoo Elite,Clothing,90.1,153
+377,Tea Plus,Pet Supplies,588.07,29
+378,T-Shirt Elite,Pet Supplies,656.83,251
+379,Motor Oil Deluxe,Sports,223.89,448
+380,T-Shirt Max,Sports,368.34,445
+381,Novel Pro,Beauty,374.93,166
+382,Motor Oil Max,Toys,245.55,424
+383,Jeans Standard,Home & Garden,19.8,89
+384,Lamp Deluxe,Food,434.14,47
+385,Yoga Mat Basic,Pet Supplies,466.58,5
+386,Tea Max,Home & Garden,247.71,392
+387,Jeans Max,Automotive,302.72,499
+388,Shampoo Elite,Toys,402.14,322
+389,Shampoo Premium,Home & Garden,287.26,455
+390,Action Figure Premium,Electronics,47.31,460
+391,Chair Basic,Beauty,598.46,79
+392,Action Figure Basic,Pet Supplies,93.45,479
+393,Dog Food Plus,Automotive,856.05,108
+394,Coffee Plus,Toys,146.31,249
+395,Cat Food Plus,Food,530.13,481
+396,Laptop Pro,Automotive,479.96,461
+397,Brake Pads Standard,Food,531.1,300
+398,Cookbook Mini,Food,488.47,7
+399,Lotion Mini,Toys,199.77,211
+400,Basketball Premium,Pet Supplies,622.96,94
+401,Cookbook Max,Home & Garden,628.42,78
+402,Lotion Plus,Home & Garden,266.89,460
+403,Lotion Basic,Clothing,496.36,343
+404,Yoga Mat Basic,Sports,936.56,466
+405,Motor Oil Elite,Books,663.52,361
+406,Action Figure Deluxe,Clothing,158.79,212
+407,Motor Oil Standard,Clothing,869.96,103
+408,Brake Pads Mini,Electronics,675.07,467
+409,Jeans Plus,Beauty,588.87,468
+410,Brake Pads Standard,Clothing,263.89,364
+411,Basketball Max,Pet Supplies,937.62,418
+412,T-Shirt Max,Beauty,460.37,33
+413,Lotion Basic,Electronics,390.45,482
+414,Coffee Max,Automotive,576.69,69
+415,Action Figure Basic,Toys,535.58,78
+416,Cat Food Mini,Beauty,205.45,10
+417,Cookbook Premium,Automotive,512.56,32
+418,Yoga Mat Max,Clothing,306.34,287
+419,Tea Plus,Pet Supplies,98.48,275
+420,Chair Premium,Food,739.16,357
+421,T-Shirt Elite,Clothing,858.23,265
+422,Brake Pads Elite,Home & Garden,48.98,280
+423,Shampoo Max,Beauty,12.22,250
+424,Chair Elite,Toys,614.1,107
+425,Coffee Elite,Toys,64.03,130
+426,T-Shirt Pro,Clothing,481.22,457
+427,Chair Mini,Food,165.57,348
+428,Action Figure Elite,Toys,59.06,203
+429,Motor Oil Deluxe,Beauty,564.38,383
+430,Laptop Premium,Automotive,637.57,423
+431,Cookbook Standard,Toys,373.35,415
+432,Cookbook Max,Food,55.75,164
+433,Chair Mini,Clothing,698.17,489
+434,Yoga Mat Elite,Automotive,989.82,414
+435,Action Figure Ultra,Pet Supplies,877.71,385
+436,Motor Oil Premium,Automotive,87.48,262
+437,Laptop Max,Clothing,893.48,234
+438,Board Game Plus,Clothing,866.36,419
+439,Yoga Mat Basic,Electronics,536.26,228
+440,Basketball Elite,Books,118.58,376
+441,Board Game Deluxe,Beauty,472.54,222
+442,Motor Oil Mini,Toys,53.45,113
+443,Smartphone Standard,Books,214.48,128
+444,Chair Max,Home & Garden,914.19,313
+445,Chair Standard,Electronics,278.27,131
+446,Tea Max,Pet Supplies,844.03,254
+447,Yoga Mat Basic,Sports,817.9,281
+448,Dog Food Basic,Automotive,563.83,420
+449,Smartphone Premium,Electronics,852.63,101
+450,Dog Food Basic,Sports,672.7,248
+451,Brake Pads Basic,Clothing,293.21,74
+452,Cookbook Pro,Pet Supplies,357.42,200
+453,Lamp Basic,Books,441.26,28
+454,Cookbook Plus,Sports,627.89,59
+455,Laptop Deluxe,Electronics,160.8,482
+456,Chair Standard,Electronics,23.79,56
+457,Dog Food Mini,Books,224.96,435
+458,Lotion Plus,Pet Supplies,274.48,16
+459,Motor Oil Elite,Clothing,383.2,82
+460,Yoga Mat Mini,Automotive,313.09,11
+461,Laptop Premium,Sports,189.99,117
+462,Brake Pads Pro,Sports,690.2,381
+463,Board Game Deluxe,Books,409.6,445
+464,Jeans Plus,Pet Supplies,191.85,192
+465,Dog Food Mini,Books,295.76,291
+466,Tea Deluxe,Home & Garden,17.88,81
+467,Dog Food Ultra,Beauty,809.72,177
+468,Dog Food Ultra,Electronics,504.31,175
+469,Board Game Pro,Automotive,721.27,311
+470,Basketball Premium,Books,862.02,262
+471,Brake Pads Ultra,Clothing,142.05,351
+472,Chair Max,Toys,892.75,77
+473,Lamp Deluxe,Toys,226.51,488
+474,Shampoo Ultra,Home & Garden,985.54,351
+475,Laptop Premium,Food,159.01,86
+476,Motor Oil Pro,Electronics,559.12,1
+477,Action Figure Deluxe,Food,179.89,411
+478,Smartphone Elite,Clothing,590.97,225
+479,Brake Pads Mini,Electronics,868.87,348
+480,Laptop Pro,Books,458.97,226
+481,Dog Food Deluxe,Pet Supplies,220.86,325
+482,Board Game Max,Beauty,493.82,374
+483,Lamp Premium,Automotive,587.4,126
+484,Motor Oil Deluxe,Clothing,994.52,335
+485,Chair Max,Automotive,674.5,335
+486,Tea Max,Clothing,511.28,284
+487,Action Figure Mini,Electronics,367.59,345
+488,Smartphone Basic,Electronics,262.74,369
+489,Basketball Max,Electronics,492.25,14
+490,Smartphone Elite,Pet Supplies,167.09,463
+491,Yoga Mat Max,Books,192.66,450
+492,Dog Food Plus,Food,164.2,308
+493,Cookbook Standard,Pet Supplies,901.12,343
+494,Brake Pads Basic,Automotive,521.52,304
+495,Brake Pads Plus,Beauty,562.36,414
+496,Brake Pads Plus,Pet Supplies,452.62,343
+497,Board Game Deluxe,Toys,920.55,59
+498,Lotion Pro,Electronics,398.44,200
+499,Lotion Basic,Automotive,128.12,236
+500,Tea Standard,Electronics,263.82,185
